@@ -12,4 +12,4 @@ Nothing really much to share here.
 
 ### Contact me
 
-[email@domain.com](mailto:jpsinghgoud@gmail.com)
+[jpsinghgoud@gmail.com](mailto:jpsinghgoud@gmail.com)
