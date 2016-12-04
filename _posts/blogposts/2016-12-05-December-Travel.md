@@ -15,7 +15,7 @@ I finally get the time to do what I've been pending for almost a year now. It's 
 
 If you don't already know, I'm from Indore which happens to be in MP and yet I've never really explored that very state. So the plan is to take reach Bhopal via the A.P Samparkranti and then take a bus to Khajuraho. *Stop giggling*
 
-[<img src="{{ site.baseurl }}/images/khajuraho.jpg" alt="Kajuraho"/>]({{ site.baseurl }}/)
+[<img src="{{ site.baseurl }}/images/khajuraho_1.jpg" alt="Khajuraho"/>]({{ site.baseurl }}/)
 
 I plan to stay at the Zostel in Khajuraho for about 4 days before I move to explore Sanhci, Indore and Mandav. When in Khajuraho, I'll probably visit Orcha, Panna and a ton of temples in and around the town.
 
