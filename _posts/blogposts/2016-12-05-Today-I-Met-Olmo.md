@@ -17,7 +17,7 @@ The conversation slowly moved on and I started learning some really interesting 
 
 It's somewhere in the middle of all this matierialistic talk that Olmo inspired me. He told me things that require courage to be said. He didn't deliver a speech or drop some badass punch lines but he explained to me how life was amazing if you could just do the things that you love. He spoke about how he chased his passion to just play the drums and produce music that's gotten him where he is right now. 
 
-> Olmo never said that the journey to make life "perfect" was a easy one. He just said that it was his decision to make it fun.
+> Olmo never said that the journey to make life "perfect" was an easy one. He just said that it was his decision to make it fun.
 
 And that, exactly that got to me. It's not about preparing for the future and planning and preparing all the time that's important. If we live like that, a future will never really come and we'll end up chasing these "goals" forever. It's about making the journey to wherever life may be going fun (This line in only clichêd until you understand what it actually means). 
 
