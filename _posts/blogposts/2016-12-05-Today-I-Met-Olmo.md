@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Today I Met, Olmo
-category : blogpost
+category : hacks
 date: 2016-12-05
 tags: 
 - EDM
