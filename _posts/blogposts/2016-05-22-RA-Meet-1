@@ -1,0 +1,34 @@
+---
+layout: post
+title: RA Meeting 1
+category : hacks
+date: 2016-05-22
+tags: 
+- Research
+- Medical
+- Learning
+---
+Relevance measure
+Detect location of content in page
+Shreya has tried to extract those elements which are semantically equivalent.
+
+Syndication only : If a drug, patient and a negative effect on that paitent had been mentioned and the author is mentioned. 
+
+First level : We know that this article has the drug
+Second : Find if patient is mentioned. No names are given. Nomenclature changes.
+Third : Negative effect has been mentioned which we do not exactly
+Last : This patient took this drug and had this negative effect. 
+These alll need ot be true to make it relevant
+
+NO : high precision but low recall
+
+High Recall (1 Recall) : Moderate Precision = GOAL (50% correct marked)
+
+Sentence level representation building
+
+Cannot do tables in parsing. Only deal with text.
+
+PDFs converted to texts already.
+
+Task 1 : Make primary folder : positive samples, whereever there’s a pdf which has to be in the positive folder, 
+it must be there. We connect pdfs to the names in the excell sheet. First column in syndicated_articles.csv is the publication id and that’s what we want to match.
